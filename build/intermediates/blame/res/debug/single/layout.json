@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\layout\\subscribe_category_item.xml",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\layout\\subscribe_category_item.xml"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\layout\\title_bar.xml",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\layout\\subscribe_activity.xml",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\layout\\subscribe_activity.xml"
+    }
+]

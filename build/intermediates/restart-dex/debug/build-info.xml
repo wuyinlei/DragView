@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="333299990822461" >
+
+    <task
+        name="javac"
+        duration="125" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="85" />
+    <task
+        name="verifier"
+        duration="46" />
+
+    <artifact
+        location="D:\Shipin\topNewGrid\build\outputs\apk\topNewGrid-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="333299990822461" >
+        <artifact
+            location="D:\Shipin\topNewGrid\build\outputs\apk\topNewGrid-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

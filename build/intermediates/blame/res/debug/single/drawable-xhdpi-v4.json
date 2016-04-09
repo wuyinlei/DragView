@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_pressed.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\channel_new.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\channel_new.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_common_pressed.9.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\btn_common_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_common_disabled.9.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\btn_common_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_normal.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\Shipin\\topNewGrid\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_common_normal.9.png",
+        "source": "D:\\Shipin\\topNewGrid\\src\\main\\res\\drawable-xhdpi\\btn_common_normal.9.png"
+    }
+]
